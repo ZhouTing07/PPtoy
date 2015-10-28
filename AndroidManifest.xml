@@ -22,9 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        
-        <activity android:name="com.example.pptoy.ChoseActivity"></activity>
-        <activity android:name="com.example.pptoy.HomeActivity"></activity>
+         <activity android:name="com.example.pptoy.ChoseActivity"></activity>
+         <activity android:name="com.example.pptoy.ZGallery1Activity"></activity>
+         <activity android:name="com.example.pptoy.ZGallery2Activity"></activity>
+         <activity android:name="com.example.pptoy.ZGallery3Activity"></activity>
+         <activity android:name="com.example.pptoy.ZGallery4Activity"></activity>
+         <activity android:name="com.example.pptoy.ZGallery5Activity"></activity>
+         <activity android:name="com.example.pptoy.HomeActivity"></activity>
         <activity android:name="com.example.pptoy.ParentActivity"></activity>
         <activity android:name="com.example.pptoy.ChildActivity"></activity>"
     </application>
